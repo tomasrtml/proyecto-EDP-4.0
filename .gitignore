@@ -1,3 +1,4 @@
 *.xlsx
 !TT y PH.xlsx
 credentials_postgre.json
+*.txt
